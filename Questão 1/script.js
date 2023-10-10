@@ -1,8 +1,8 @@
 
 let nome;
 
-nome = chma;
-
+nome = "Renato";
 
 
 alert("Seja bem-vindo " + nome)
+document.write("Seja bem-vindo " + nome)
